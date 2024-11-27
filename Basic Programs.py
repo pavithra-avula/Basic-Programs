@@ -368,8 +368,3 @@ while n>=i:
     i=i+1
 print(fact)
 ''' 
-
-
-
-
-
